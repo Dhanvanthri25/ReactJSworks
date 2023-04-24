@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+
+.head{
+    font-family:'Cormorant Garamond', serif;
+    
+}
+.tech{
+    font-family: 'Fredericka the Great', cursive;
+
+}
+
+.bgh{
+    background: linear-gradient(2700deg,#1b838f,#a5dcec,#1ca4b3);
+
+}
+.bges:hover{
+    transition: 0.8s;
+    transform: scale(1.1);
+}

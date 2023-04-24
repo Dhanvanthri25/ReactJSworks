@@ -1,0 +1,23 @@
+.social{
+    background-image: url('./socialimg.jpg');
+    width:100%;
+    height:100vh;
+    background-size: cover;
+   background-repeat: no-repeat;
+}
+.but{
+    color: whitesmoke;
+}
+.com{
+    background-color: whitesmoke;
+    color: black;
+}
+.lik{
+    /* background-color: rgb(232, 210, 44); */
+    color:whitesmoke;
+}
+.soc{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 300;
+    font-style:inherit;
+}

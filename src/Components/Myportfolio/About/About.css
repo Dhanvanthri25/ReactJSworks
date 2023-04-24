@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Waterfall&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Raleway&display=swap');
+
+
+.mail{
+    /* font-family: 'Raleway', sans-serif; */
+}
+.email:hover{
+    
+    transition: 1s;
+    transform: scale(1.5);
+    color:crimson;
+}
+.wapp:hover{
+    transition: 1s;
+    transform: scale(1.5);
+    color:rgb(20, 220, 20);
+}
+.cont{
+    padding-inline-start: 5%;
+    color:rgb(0, 0, 0);
+}
+.imge:hover{
+    transition: 0.8s;
+    transform: scale(1.1);
+    
+}
+.aboutcls{
+    width:  100%;
+}
+.bgcm{
+    /* background: linear-gradient(2700deg,#1b838f,#a5dcec,#1ca5b4); */
+    
+}
+.abt{
+    font-family: 'Fredericka the Great', cursive;
+
+
+}
+.tec{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: larger;
+
+}
+.head{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 600;
+}
